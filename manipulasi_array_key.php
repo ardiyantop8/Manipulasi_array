@@ -10,7 +10,7 @@ $array_warna    = array('kuning','orange','merah');
 foreach ($array_buah as $key => $value) {
     $list_array[$value] = $value;
 }
-// echo "<pre>";print_r($list_array);die;
+echo "<pre>";print_r($list_array);die;
 /*END mengisi $list_array dari satu variable array buah*/
 
 
